@@ -1,8 +1,8 @@
-# Prework - Project *Name of App Here*
+# Prework - Project Xcode Color Change
 
 Submitted by: Heeba Eddouh
 
-**Name of your app** is an app that... [TODO] 
+Xcode Color Change is an app that has 3 labels and changes colors with a click of the 'change' button!
 
 Time spent: 3 hours spent in total
 
@@ -44,7 +44,7 @@ Instagram
 An app I would like to create involves languages. Modern day language apps, or websites, allow you to type and receive a translation. However, I want to create a similar app that incorporates top 10 common responses. So if you were in a foreign country and ask a local through the app “What can I do here?” And they respond with “Well what do you like to eat?”. The app will create top 10 common foods in the country’s language. Instead of typing the whole time, responds will automatically be generated. There will be features that allow you to speak into the app and receive common responses that can be spoken through the app.
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had trouble changing the color of the app. I then went back to retrace my steps and found the mistake. 
 
 ## License
 

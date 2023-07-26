@@ -28,6 +28,7 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 Discord
+
     Deleting old messages
     
     Editing messages
@@ -37,11 +38,13 @@ Discord
     Adding '*' or '**' outside of texts will italicize or bold the message
     
 Reddit
+
     Changing the light modes
     
     Edit messages
     
 Instagram
+
     Unreading or unsending messages
     
     Changing background colors

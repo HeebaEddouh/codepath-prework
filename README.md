@@ -59,7 +59,7 @@ I had trouble changing the color of the app. I then went back to retrace my step
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Heeba Eddouh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
